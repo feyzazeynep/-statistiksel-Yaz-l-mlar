@@ -1,0 +1,1 @@
+# -statistiksel-Yaz-l-mlar
