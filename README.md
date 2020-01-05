@@ -71,4 +71,4 @@ getTBinR::plot_tb_burden_overview(metric = "e_inc_100k",
 #> Loading data from: /tmp/RtmpkjkDp6/dictionary.rds
 #> 1 results found for your variable search for e_inc_100k
 ```
-![](man/figures/plot-tb-incidence-eur-1.png)<!-- -->
+![](plot-tb-incidence-eur-1.png)<!-- -->
