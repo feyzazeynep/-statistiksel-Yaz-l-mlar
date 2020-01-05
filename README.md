@@ -10,5 +10,16 @@
 
 ## Kullanım
 
-### Gerekli Kütüphaneler
+### Proje Amaçları
+- R ile tüberküloz verisinin hazırlanması ve dünya üzerindeki yoğunluk haritasının ortaya konulması.
 
+### Kazanımlar
+- Tüberküloz verisinin detaylı analizi ve Tüberküloz hakkında farkındalık kazandırılması
+- İnteraktif görselleştirme yetkinliği
+
+### Gerekli Kütüphaneler
+ 
+- plotly
+- getTBinR
+
+### Kullanımlar
