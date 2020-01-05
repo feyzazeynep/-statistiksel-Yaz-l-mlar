@@ -23,14 +23,14 @@
 - getTBinR
 
 ### Kullanımlar
-Verinin Okunması ve Hazırlanması: 
+#### Verinin Okunması ve Hazırlanması: 
 ``` R
 library(plotly)
 data <- read.csv("TB_burden_countries_2019-12-23.csv")
 data2018<-data[which(data$year==2018), ]
 ```
 
-İlk Grafiğin Çizdirilmesi
+#### İlk Grafiğin Çizdirilmesi
 ``` R
 library(plotly)
 
@@ -58,7 +58,7 @@ p <- plot_geo(data2018) %>%
 p
 ```
 
-getTBinR Kütüphanesi ile Görselleştirme
+#### getTBinR Kütüphanesi ile Görselleştirme
 
 ``` R
 getTBinR::plot_tb_burden_overview(metric = "e_inc_100k",
