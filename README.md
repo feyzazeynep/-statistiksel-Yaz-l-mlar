@@ -72,3 +72,13 @@ getTBinR::plot_tb_burden_overview(metric = "e_inc_100k",
 #> 1 results found for your variable search for e_inc_100k
 ```
 ![](plot-tb-incidence-eur-1.png)<!-- -->
+
+
+### Referanslar
+
+- [World Health Organization](https://www.who.int/tb/country/data/download/en/)
+- [Plotly](https://plot.ly)
+- [getTBinR](https://github.com/seabbs/getTBinR)
+- [Tüberküloz (Verem Hastalığı) nedir? Belirtileri ve tedavi yöntemleri](https://www.medicalpark.com.tr/tuberkuloz-nedir-belirtileri-teshisi-ve-tedavi-yontemleri-nelerdir/hg-1772)
+
+
